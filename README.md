@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I'm Anmol, a passionate developer who loves to bui
 
 ## 📂 Projects
 
-- [Project 1](https://github.com/Anmol5478/Vision): Vision is a web based ai which can quickly response to the question you asked.
-- [Project 2](https://github.com/Anmol5478/Jarvis): jarvis is a desktop based project which can talk to use and perform tasks as per your request.
+- [Vision](https://github.com/Anmol5478/Vision): Vision is a web based ai which can quickly response to the question you asked.
+- [Jarvis](https://github.com/Anmol5478/Jarvis): jarvis is a desktop based project which can talk to use and perform tasks as per your request.
 - [More projects...](https://github.com/Anmol5478?tab=repositories)
 
 ## 🤝 Let's Connect
