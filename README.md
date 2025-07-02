@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I'm Anmol, a passionate developer who loves to bui
 
 - 🔭 Currently working on: Android app Development
 - 🌱 Learning: I have learned Mern Stack along with AI integrated in my websites.
-- 👯 Looking to collaborate on: [Types of projects or technologies]
-- 💬 Ask me about: [Topics you're comfortable talking about]
-- 📫 How to reach me: [Your email or preferred contact method]
-- ⚡ Fun fact: [Something interesting about you!]
+- 👯 Looking to collaborate on: Ml projects
+- 💬 Ask me about: Developement and Ai engineering.
+- 📫 How to reach me: Anmol200gupta5@gmail.com
+- ⚡ Fun fact: I roast People very much.
 
 ## 🛠️ Languages and Tools
 
@@ -28,15 +28,15 @@ Welcome to my GitHub profile! I'm Anmol, a passionate developer who loves to bui
 
 ## 📂 Projects
 
-- [Project 1](https://github.com/Anmol5478/project1): Short description of project 1.
-- [Project 2](https://github.com/Anmol5478/project2): Short description of project 2.
+- [Project 1](https://github.com/Anmol5478/Vision): Vision is a web based ai which can quickly response to the question you asked.
+- [Project 2](https://github.com/Anmol5478/Jarvis): jarvis is a desktop based project which can talk to use and perform tasks as per your request.
 - [More projects...](https://github.com/Anmol5478?tab=repositories)
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-gupta-5b97241ab/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/AnmolGu90694732)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:anmol200gupta5@gmail.com)
 <!-- Add other social links as needed -->
 
 ---
