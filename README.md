@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm Anmol, a passionate developer who loves to bui
 
 ## 📈 GitHub Stats
 
-![Anmol's GitHub Stats](https://github-readme-stats.netlify.app/api?username=Anmol5478&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default)
+![Anmol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anmol5478&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol5478&layout=compact&theme=default)
 
 ## 📂 Projects
